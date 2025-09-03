@@ -1,3 +1,9 @@
 [submodule "E20Angular"]
 	path = E20Angular
 	url = https://github.com/Piero23/E20Angular
+[submodule "E20"]
+	path = E20
+	url = https://github.com/Piero23/E20.git
+[submodule "E20AndroidStudio"]
+	path = E20AndroidStudio
+	url = https://github.com/Piero23/E20AndroidStudio.git
